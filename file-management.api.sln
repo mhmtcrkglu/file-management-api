@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "file-management.api", "file-management.api\file-management.api.csproj", "{719AB44B-99CA-4CB6-B524-38B961F19F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{719AB44B-99CA-4CB6-B524-38B961F19F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719AB44B-99CA-4CB6-B524-38B961F19F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719AB44B-99CA-4CB6-B524-38B961F19F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719AB44B-99CA-4CB6-B524-38B961F19F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
